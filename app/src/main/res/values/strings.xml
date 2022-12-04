@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">Weather</string>
+=======
+    <string name="app_name">天气</string>
+>>>>>>> 0606f019201e781e038d462162a1fd694c4bc4a2
 </resources>
